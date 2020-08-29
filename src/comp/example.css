@@ -1,0 +1,14 @@
+.example {
+    margin: 18px 0 24px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.example div {
+    width: 50%;
+    margin: 0 15px;
+}
+
+.example pre {
+    line-height: 1.5;
+}
