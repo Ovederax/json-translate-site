@@ -1,0 +1,2 @@
+(this["webpackJsonptest-typescript-app"]=this["webpackJsonptest-typescript-app"]||[]).push([[0],{64:function(e){e.exports=JSON.parse('{"Translate your JSON":"Translate your JSON","Chose language from":"Chose language from","Chose language to":"Chose language to","Send":"Send","Download":"Download","Chose & Send":"Chose & Send","Example in Json file:":"Example in Json file:","Example out Json file:":"Example out Json file:"}')}}]);
+//# sourceMappingURL=0.d29185a7.chunk.js.map
